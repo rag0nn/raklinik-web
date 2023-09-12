@@ -73186,7 +73186,7 @@ A.alh.prototype={}
 A.w0.prototype={
 ai(){var s="content",r=A.a83(),q=$.aIf
 q=q.gau(q)
-return new A.Ob(r,A.ak(q,!0,A.i(q).i("j.E")),$.oQ.h(0,"jobTitle"),$.oQ.h(0,"job"),$.oQ.h(0,"branchName"),$.oQ.h(0,"mainPartButton"),$.oQ.h(0,"clinicPartButton"),$.oQ.h(0,"contactUsPartButton"),$.oQ.h(0,"sssPartButton"),$.oQ.h(0,"biographyPartButton"),$.aue.h(0,"title"),$.aue.h(0,s),$.aIh.h(0,s),$.tb.h(0,"name"),$.tb.h(0,"tag"),$.tb.h(0,"biography"),$.tb.h(0,"educationsTitle"),$.tb.h(0,"educations"),$.tb.h(0,"expertTitle"),$.tb.h(0,"experts"),$.oN.h(0,"adressTitle"),$.oN.h(0,"adressContent"),$.oN.h(0,"cellphoneTitle"),$.oN.h(0,"cellphoneContent"),$.oN.h(0,"emailTitle"),$.oN.h(0,"emailContent"),$.oN.h(0,"contactUs"),$.oN.h(0,s),$.Ti.h(0,"sssTitle"),$.Ti.h(0,"answer1"),$.Ti.h(0,"answer2"),$.Ti.h(0,"question1"),$.Ti.h(0,"question2"),A.a([B.A6,B.A5,B.A7,B.A8,B.A9],t.r0),A.Fu("https://raw.githubusercontent.com/rag0nn/rag0nn.github.io/master/assets/logo.png",null,null,null),B.k)}}
+return new A.Ob(r,A.ak(q,!0,A.i(q).i("j.E")),$.oQ.h(0,"jobTitle"),$.oQ.h(0,"job"),$.oQ.h(0,"branchName"),$.oQ.h(0,"mainPartButton"),$.oQ.h(0,"clinicPartButton"),$.oQ.h(0,"contactUsPartButton"),$.oQ.h(0,"sssPartButton"),$.oQ.h(0,"biographyPartButton"),$.aue.h(0,"title"),$.aue.h(0,s),$.aIh.h(0,s),$.tb.h(0,"name"),$.tb.h(0,"tag"),$.tb.h(0,"biography"),$.tb.h(0,"educationsTitle"),$.tb.h(0,"educations"),$.tb.h(0,"expertTitle"),$.tb.h(0,"experts"),$.oN.h(0,"adressTitle"),$.oN.h(0,"adressContent"),$.oN.h(0,"cellphoneTitle"),$.oN.h(0,"cellphoneContent"),$.oN.h(0,"emailTitle"),$.oN.h(0,"emailContent"),$.oN.h(0,"contactUs"),$.oN.h(0,s),$.Ti.h(0,"sssTitle"),$.Ti.h(0,"answer1"),$.Ti.h(0,"answer2"),$.Ti.h(0,"question1"),$.Ti.h(0,"question2"),A.a([B.A5,B.A6,B.A7,B.A8,B.A9],t.r0),A.Fu("assets/logo.png",null,null,null),B.k)}}
 A.Ob.prototype={
 vF(){var s=0,r=A.M(t.z),q=this,p,o
 var $async$vF=A.N(function(a,b){if(a===1)return A.J(b,r)
@@ -76339,8 +76339,8 @@ B.zW=new A.hx(61865)
 B.A3=new A.hw(B.zW,B.j,null)
 B.zT=new A.hx(58530)
 B.A4=new A.hw(B.zT,B.j,null)
-B.A5=new A.iB(null,null,"https://raw.githubusercontent.com/rag0nn/rag0nn.github.io/master/assets/office2.jpg",null)
-B.A6=new A.iB(null,null,"assets/office1.jpg",null)
+B.A5=new A.iB(null,null,"assets/office1.jpg",null)
+B.A6=new A.iB(null,null,"assets/office2.jpg",null)
 B.A7=new A.iB(null,null,"assets/office3.jpg",null)
 B.A8=new A.iB(null,null,"assets/office4.jpg",null)
 B.A9=new A.iB(null,null,"assets/office5.jpg",null)
