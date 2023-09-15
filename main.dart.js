@@ -74143,10 +74143,10 @@ o=e.f[0]
 n=e.r[0]
 m=e.w[0]
 l=e.x[0]
-k=s/10*9
+k=s/1.5
 j=g/10*9
 e=e.y
-s=A.kg(A.arm(A.df(A.a([A.oh(p,k,j,o,n,m,l,1,e[0],!1,r,q),A.oh(p,k,j,o,n,m,l,2,e[1],!1,r,q),A.oh(p,k,j,o,n,m,l,3,e[2],!1,r,q),A.oh(p,k,j,o,n,m,l,4,e[3],!1,r,q)],f),B.t,B.J),h,B.G9,B.bc),s*6,h)
+s=A.kg(A.arm(A.df(A.a([A.oh(p,k,j,o,n,m,l,1,e[0],!1,r,q),A.oh(p,k,j,o,n,m,l,2,e[1],!1,r,q),A.oh(p,k,j,o,n,m,l,3,e[2],!1,r,q),A.oh(p,k,j,o,n,m,l,4,e[3],!1,r,q)],f),B.t,B.J),h,B.G9,B.bc),s*4.3,h)
 f=s}return f}}
 A.agB.prototype={
 $0(){var s=this.a.d,r=B.b.gcq(s.f).at
